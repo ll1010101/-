@@ -1,3 +1,7 @@
+姓名：林琳  
+
+学号：21312243
+
 项目所在地址（均在飞桨中）：
 
 01_猫咪分类_ResNet50：https://aistudio.baidu.com/projectdetail/7307207
